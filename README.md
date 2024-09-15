@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Hero Demaio
 
-# Your Github username
+# heroquest8
 
-# List the things you added for points
+# added more than 8 knots
